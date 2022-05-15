@@ -1,1 +1,2 @@
-i am making some changes
+i am making some changes because i have 
+bug
